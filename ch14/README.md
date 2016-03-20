@@ -25,7 +25,7 @@
 - (c) `svec1 == svec2`
 - (d) `"svec1[0] == "stone"`
 
-(a) neither. (b) `string` (c) `vector` (d) `string`
+(a) built in `operator==` (b) `string` (c) `vector` (d) compile error
 
 -----
 
